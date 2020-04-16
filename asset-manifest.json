@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/little-fella/static/css/main.d1b05096.chunk.css",
+    "main.js": "/little-fella/static/js/main.2b73be28.chunk.js",
+    "main.js.map": "/little-fella/static/js/main.2b73be28.chunk.js.map",
+    "runtime-main.js": "/little-fella/static/js/runtime-main.a4812606.js",
+    "runtime-main.js.map": "/little-fella/static/js/runtime-main.a4812606.js.map",
+    "static/js/2.88bb4ca4.chunk.js": "/little-fella/static/js/2.88bb4ca4.chunk.js",
+    "static/js/2.88bb4ca4.chunk.js.map": "/little-fella/static/js/2.88bb4ca4.chunk.js.map",
+    "index.html": "/little-fella/index.html",
+    "precache-manifest.43eda50887972fc1324edba5b02d53e3.js": "/little-fella/precache-manifest.43eda50887972fc1324edba5b02d53e3.js",
+    "service-worker.js": "/little-fella/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/little-fella/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.88bb4ca4.chunk.js.LICENSE.txt": "/little-fella/static/js/2.88bb4ca4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/little-fella/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4812606.js",
+    "static/js/2.88bb4ca4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.2b73be28.chunk.js"
+  ]
+}
