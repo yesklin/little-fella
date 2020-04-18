@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/little-fella/static/css/main.cef51a54.chunk.css",
-    "main.js": "/little-fella/static/js/main.1f8d6c3a.chunk.js",
-    "main.js.map": "/little-fella/static/js/main.1f8d6c3a.chunk.js.map",
+    "main.css": "/little-fella/static/css/main.4e4f936c.chunk.css",
+    "main.js": "/little-fella/static/js/main.ad7cfbbb.chunk.js",
+    "main.js.map": "/little-fella/static/js/main.ad7cfbbb.chunk.js.map",
     "runtime-main.js": "/little-fella/static/js/runtime-main.a4812606.js",
     "runtime-main.js.map": "/little-fella/static/js/runtime-main.a4812606.js.map",
-    "static/js/2.a56b4fa9.chunk.js": "/little-fella/static/js/2.a56b4fa9.chunk.js",
-    "static/js/2.a56b4fa9.chunk.js.map": "/little-fella/static/js/2.a56b4fa9.chunk.js.map",
+    "static/js/2.2f134d06.chunk.js": "/little-fella/static/js/2.2f134d06.chunk.js",
+    "static/js/2.2f134d06.chunk.js.map": "/little-fella/static/js/2.2f134d06.chunk.js.map",
     "index.html": "/little-fella/index.html",
-    "precache-manifest.7b8e522aaf00b51e116a3a3928c4b5dc.js": "/little-fella/precache-manifest.7b8e522aaf00b51e116a3a3928c4b5dc.js",
+    "precache-manifest.63286bc1e73c2729b558e9f66e177eba.js": "/little-fella/precache-manifest.63286bc1e73c2729b558e9f66e177eba.js",
     "service-worker.js": "/little-fella/service-worker.js",
-    "static/css/main.cef51a54.chunk.css.map": "/little-fella/static/css/main.cef51a54.chunk.css.map",
-    "static/js/2.a56b4fa9.chunk.js.LICENSE.txt": "/little-fella/static/js/2.a56b4fa9.chunk.js.LICENSE.txt",
+    "static/css/main.4e4f936c.chunk.css.map": "/little-fella/static/css/main.4e4f936c.chunk.css.map",
+    "static/js/2.2f134d06.chunk.js.LICENSE.txt": "/little-fella/static/js/2.2f134d06.chunk.js.LICENSE.txt",
     "static/media/App.css": "/little-fella/static/media/background.ac539f38.jpg",
-    "static/media/moi.jpg": "/little-fella/static/media/moi.2b4797bb.jpg"
+    "static/media/github.png": "/little-fella/static/media/github.0ef32cba.png",
+    "static/media/graviton.png": "/little-fella/static/media/graviton.28171f91.png",
+    "static/media/regression.png": "/little-fella/static/media/regression.11826a4a.png",
+    "static/media/us_flag.png": "/little-fella/static/media/us_flag.c6ba8945.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a4812606.js",
-    "static/js/2.a56b4fa9.chunk.js",
-    "static/css/main.cef51a54.chunk.css",
-    "static/js/main.1f8d6c3a.chunk.js"
+    "static/js/2.2f134d06.chunk.js",
+    "static/css/main.4e4f936c.chunk.css",
+    "static/js/main.ad7cfbbb.chunk.js"
   ]
 }
