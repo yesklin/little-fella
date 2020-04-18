@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0d34e8787276422e4d0b50f2a1eafe4",
+    "revision": "d93f6a1368e12fba029050840402707a",
     "url": "/little-fella/index.html"
   },
   {
-    "revision": "88cbf610b829fc2d14f9",
+    "revision": "71ca79f870dea7fd6e58",
     "url": "/little-fella/static/css/main.4e4f936c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/little-fella/static/js/2.2f134d06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88cbf610b829fc2d14f9",
-    "url": "/little-fella/static/js/main.c5366f24.chunk.js"
+    "revision": "71ca79f870dea7fd6e58",
+    "url": "/little-fella/static/js/main.04efbd09.chunk.js"
   },
   {
     "revision": "2ad627e9da3543dba089",
