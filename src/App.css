@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand'
 );
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet"');
 
 :root{
   --light-bg-color: whitesmoke;
@@ -24,14 +25,110 @@ body{
   text-align: center;
 }
 
-.languagesPlace{
-  position: fixed;
-  background: linear-gradient(180deg, rgba(48,252,133,1) 18%, rgba(28,159,83,1) 88%);
-  width: 25%;
-  height: 100%;
-  z-index: -1;
+footer{
+  position: absolute; 
+  background-color: rgba(0,0,0,0.5);
+  bottom: 0;
+  width: 100%;
+  height: 6%;
+  text-align: right;
 }
 
+nav{
+  /*margin-top: 0.5rem;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+  border: 1px var(--aqua-text-color) solid;*/
+  background-color: rgba(0,0,0,0.5);
+}
+
+a{
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+
+.header-button{
+  color: white;
+}
+.header-button:hover{
+  color: gray;
+}
+
+
+.home-card{
+  background-color: rgba(0,0,0,0.5);
+  padding: 1rem;
+}
+
+
+.projects-container{  
+  display: grid;
+  grid-template-columns: 60% 40%;
+  padding-top: 2.5%;
+}
+
+.projects-container-info{
+  background-color: rgba(0,0,0,0.5);
+  margin-right: 5%;
+  height: 22rem;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.img-container{
+  text-align: left;
+  padding-left: 5%;
+}
+
+.project-print{
+  height: 22rem;
+  text-align: left;
+ 
+}
+
+.projects-button-container{
+  width: 43rem;
+  margin-top: 2rem;
+}
+
+.projects-button{
+  width: 4.0rem;
+}
+
+.projects-button:hover{
+  width: 4.2rem;
+}
+
+
+.gray-scale{
+  filter: grayscale(100%);
+}
+
+.gray-scale:hover{
+  filter: grayscale(0%);
+}
+
+.centered-link{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.flag{
+  width: 2rem;
+  margin-top: 0.2rem;
+  margin-right: 1rem;
+  filter: grayscale(100%);
+}
+.flag:hover{
+  filter: grayscale(0%);
+  cursor: pointer;
+}
+
+/*colors*/
 .white{
   color: whitesmoke;
 } 
@@ -40,7 +137,7 @@ body{
   color: var(--violet-text-color);
 } 
 .aqua{
-  color: var(--aqua-text-color);
+  border-bottom: 2px white solid;
 }
 .lava{
   color: var(--lava-text-color);
@@ -49,29 +146,13 @@ body{
   color: var(--sunflower-text-color);
 }
 
-a{
-  text-decoration: none;
-  color: whitesmoke;
-}
-
-nav{
-  margin-top: 0.5rem;
-  margin-left: 0.3rem;
-  margin-right: 0.3rem;
-  border: 1px var(--aqua-text-color) solid;
-  background-color: rgba(0,0,0,0.5);
-}
-
-.bodyCard{
-  margin-top: 0.5rem;
-  border: 1px whitesmoke solid;
-  background-color: rgba(0,0,0,0.5);
-  height: 80vh;
-}
-
-
+/*fonts*/
 .bangers-family{
   font-family: var(--bigger-font);
+}
+
+.condensed-family{
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .large {
@@ -87,7 +168,13 @@ nav{
 }
 
 .small{
-  font-size:0.9rem;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.very-small{
+  font-size:1rem;
   line-height: 1.2;
   margin-bottom: 1rem;
 }
@@ -114,7 +201,6 @@ nav{
 .grid-4 {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-gap: 1rem;
 }
 .grid-4 {
   display: grid;
@@ -122,15 +208,30 @@ nav{
   grid-gap: 1rem;
 }
 
+
+/*animation*/
 .typewriter-text {
-  animation: typing 5s;
+  animation: showText 3s;
 }
 
-@keyframes typing {
+.show-image-animation{
+  animation: showImage 3s;
+}
+
+@keyframes showText {
   from { 
       color: rgba(255,255,255,0) 
   }
   to { 
       color: white; 
+  }
+}
+
+@keyframes showImage {
+  from { 
+      opacity: 0; 
+  }
+  to { 
+      opacity: 100%; 
   }
 }
