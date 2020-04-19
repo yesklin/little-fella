@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/little-fella/precache-manifest.3baa8778d9e0482147a64c183f63ab2d.js"
+  "/little-fella/precache-manifest.3aabfd4501092f2ce1e8146b7282a146.js"
 );
 
 self.addEventListener('message', (event) => {
