@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/little-fella/static/css/main.29ff5492.chunk.css",
-    "main.js": "/little-fella/static/js/main.c1bac831.chunk.js",
-    "main.js.map": "/little-fella/static/js/main.c1bac831.chunk.js.map",
+    "main.css": "/little-fella/static/css/main.2c7dacc2.chunk.css",
+    "main.js": "/little-fella/static/js/main.d1992736.chunk.js",
+    "main.js.map": "/little-fella/static/js/main.d1992736.chunk.js.map",
     "runtime-main.js": "/little-fella/static/js/runtime-main.a4812606.js",
     "runtime-main.js.map": "/little-fella/static/js/runtime-main.a4812606.js.map",
     "static/js/2.6b146726.chunk.js": "/little-fella/static/js/2.6b146726.chunk.js",
     "static/js/2.6b146726.chunk.js.map": "/little-fella/static/js/2.6b146726.chunk.js.map",
     "index.html": "/little-fella/index.html",
-    "precache-manifest.a41d26ca2347daeb78e25c12b44ccee2.js": "/little-fella/precache-manifest.a41d26ca2347daeb78e25c12b44ccee2.js",
+    "precache-manifest.a0f9c9afc1370243cbae7d61c74861c7.js": "/little-fella/precache-manifest.a0f9c9afc1370243cbae7d61c74861c7.js",
     "service-worker.js": "/little-fella/service-worker.js",
-    "static/css/main.29ff5492.chunk.css.map": "/little-fella/static/css/main.29ff5492.chunk.css.map",
+    "static/css/main.2c7dacc2.chunk.css.map": "/little-fella/static/css/main.2c7dacc2.chunk.css.map",
     "static/js/2.6b146726.chunk.js.LICENSE.txt": "/little-fella/static/js/2.6b146726.chunk.js.LICENSE.txt",
     "static/media/App.css": "/little-fella/static/media/background.ac539f38.jpg",
     "static/media/github.png": "/little-fella/static/media/github.0ef32cba.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.a4812606.js",
     "static/js/2.6b146726.chunk.js",
-    "static/css/main.29ff5492.chunk.css",
-    "static/js/main.c1bac831.chunk.js"
+    "static/css/main.2c7dacc2.chunk.css",
+    "static/js/main.d1992736.chunk.js"
   ]
 }
